@@ -1,4 +1,3 @@
-import { useEffect, useState } from 'react';
 import './App.css';
 import Animal from './components/Animal';
 import useAnimalSearch from './hooks/useAnimalSearch';
